@@ -4,7 +4,7 @@ import email
 from email.header import decode_header
 
 sender = "your_email@farazi.com"
-receiver = "target-incl-tenant-2@appdev-mt.devensoft.com"
+receiver = ""
 subject = "Email Subject"
 body = "This is the email body."
 
